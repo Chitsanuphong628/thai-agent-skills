@@ -55,4 +55,3 @@ Mytilene, 427 BC (based on Thucydides, History of the Peloponnesian War, Book 3)
 - Reveal 92–103 s: Paches has just read the order when the second ship arrives.
 - Honest twist 103–120 s: the ringleaders sent to Athens were executed; "more than a thousand" is a disputed figure.
 - Close 120–128 s: saved by an overnight change of mind, a handful of votes, and rowers who never stopped.
-
